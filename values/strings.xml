@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name"> Animal Quiz</string>
+    <string name="Que1">What is the fastest bird (on air) in the world? </string>
+    <string name="Que2">How many stomachs does a cow have? </string>
+    <string name="Que3"> Whales give live birth? </string>
+    <string name="Que4"> What is the largest frog? </string>
+    <string name="Que5"> What bird has the fastest wing beat? </string>
+    <string name="Que6"> What is the longest snake? </string>
+    <string name="Que7"> The komondor dragon is the largest known reptile? </string>
+    <string name="Que8"> What is the name of the oldest goat? </string>
+    <string name="Que9">  Turtles can reach ages of up to 200 years old </string>
+    <string name="Que10">  Snakes give birth to live young ones </string>
+<!-- options for the checkboxes -->
+    <string name="Que1op_a">  Ruby Throated Hummingbird </string>
+    <string name="Que1op_b">  North African Ostrich </string>
+    <string name="Que1op_c">  Peregine Falcon </string>
+    <string name="Que1op_d">  Red-billed Quelea </string>
+
+    <string name="Que2op_a">  1 </string>
+    <string name="Que2op_b">  2 </string>
+    <string name="Que2op_c">  3 </string>
+    <string name="Que2op_d">  4 </string>
+
+    <string name="Que3op_a">  True </string>
+    <string name="Que3op_b">  False </string>
+
+
+    <string name="Que4op_a">  Cane Toad </string>
+    <string name="Que4op_b">  North American Bullfrog </string>
+    <string name="Que4op_c">  African Goliath Frog </string>
+    <string name="Que4op_d">  Poison Dart Frog </string>
+
+    <string name="Que5op_a">  Albatross </string>
+    <string name="Que5op_b">  Ruby Throated Hummingbird </string>
+    <string name="Que5op_c">  Arctic Tern </string>
+    <string name="Que5op_d">  Rupellis Vulture </string>
+
+</resources>
